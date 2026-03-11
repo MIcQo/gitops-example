@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: frontend-cm
 data:
-  BACKEND_URL: "http://backend:80"
+  BACKEND_URL: "http://backend.default:80"
