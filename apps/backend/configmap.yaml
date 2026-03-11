@@ -4,3 +4,4 @@ metadata:
   name: backend-cm
 data:
   ENV: "value"
+  INTERNAL_API: "http://api.default:80"
